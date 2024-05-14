@@ -2760,7 +2760,7 @@ td:last-child {
     font-size      : var(--text-sm);
     text-transform : uppercase;
     letter-spacing : .3em;
-    color          : var(--color-1);
+    color          : #000000;
     margin-top     : 0;
 }
 
@@ -2847,7 +2847,7 @@ img.u-pull-left {
     font-size      : 8em;
     letter-spacing : -0.03em;
     line-height    : 1;
-    color          : var(--color-gray-9);
+    color          : #BFBFBF;
     position       : absolute;
     top            : 0;
     left           : var(--gutter);
@@ -2901,7 +2901,7 @@ img.u-pull-left {
     font-weight       : 600;
     font-size         : 1.25em;
     line-height       : 1;
-    color             : var(--color-1);
+    color             : #383b40;
     margin-bottom     : var(--vspace-0_25);
 }
 
@@ -3374,7 +3374,7 @@ img.u-pull-left {
     --content-padding-top    : 20vh;
     --content-padding-bottom : 9.6rem;
     z-index                  : 3;
-    background-color         : #1C1C24;
+    background-color         : #383b40;
     width                    : 100%;
     height                   : 100vh;
     min-height               : calc(25.5 * var(--space));
@@ -3387,7 +3387,7 @@ img.u-pull-left {
  * -------------------------------------------------------------------- */
 .s-intro__bg {
     display             : block;
-    background-image    : url(../images/hero-bg.jpg);
+    background-image    : url(../images/mic.jpg);
     background-repeat   : no-repeat;
     background-position : center;
     background-size     : cover;
@@ -3446,7 +3446,7 @@ img.u-pull-left {
 
 .s-intro__content-bg {
     display             : block;
-    background-image    : url(../images/intro-bg.jpg);
+    background-image    : url(../images/studio.jpg);
     background-repeat   : no-repeat;
     background-position : center;
     background-size     : cover;
@@ -3479,7 +3479,7 @@ img.u-pull-left {
     font-weight       : 600;
     font-size         : calc(var(--text-title-size) * var(--text-multiplier));
     line-height       : 1.227;
-    color             : white;
+    color             : #F2F2F2;
     padding-top       : var(--vspace-0_75);
     padding-right     : 10vw;
     margin-top        : 0;
@@ -3492,7 +3492,7 @@ img.u-pull-left {
     content          : "";
     height           : 1px;
     width            : 7.2rem;
-    background-color : var(--color-1);
+    background-color : #000000;
     position         : absolute;
     top              : 0;
     left             : 4px;
