@@ -3443,7 +3443,9 @@ img.u-pull-left {
     padding-bottom : var(--content-padding-bottom);
     position       : relative;
 }
-
+#folio > div.row.section-header.light-on-dark > h3{
+    color: #FFF;
+}
 .s-intro__content-bg {
     display             : block;
     background-image    : url(../images/mesaAudio.jpg);
