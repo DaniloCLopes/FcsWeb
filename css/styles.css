@@ -3341,16 +3341,16 @@ img.u-pull-left {
     padding-bottom : var(--content-padding-bottom);
     position       : relative;
 }
-#folio > div.row.section-header.light-on-dark > h3{
+#folioKey > div.row.section-header.light-on-dark > h3{
     color: #FFF;
 }
 
-#folio #bricks #key{
+#folioKey #bricks #key{
     display: flex;
     justify-content: center;
   }
   
-  #folio #bricks #key button{
+  #folioKey #bricks #key button{
     background-color: #fff;
     color: #000000;
     border: none;
